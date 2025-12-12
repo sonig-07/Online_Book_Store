@@ -38,7 +38,6 @@ BookStore/
 
 <img width="1920" height="1056" alt="0" src="https://github.com/user-attachments/assets/bdded263-747b-4d41-94f4-0772c758d0c1" />
 <img width="1533" height="878" alt="Screenshot 2024-05-01 011824" src="https://github.com/user-attachments/assets/7e40487e-ede5-4d44-a83b-5ecf5db25b6a" />
-<img width="1601" height="850" alt="image" src="https://github.com/user-attachments/assets/824df91f-cf7c-4374-8c97-a4abe0e18c37" />
 <img width="1611" height="847" alt="image" src="https://github.com/user-attachments/assets/795fbb97-9f62-46a9-8d95-5bec7f997306" />
 <img width="1607" height="852" alt="image" src="https://github.com/user-attachments/assets/bd3ac4da-d505-494f-968f-4f2d17db1de5" />
 <img width="1408" height="736" alt="01" src="https://github.com/user-attachments/assets/bb86b8c3-6aa5-466a-a9ec-806641627750" />
